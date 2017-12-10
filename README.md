@@ -42,5 +42,8 @@
   |![Alt test](/data/facades_test_3.png)|![Alt test](/data/facades_test_4.png)|
   |left:source data<br/>middle: groundtruth<br/>right:sample|left:source data<br/>middle: groundtruth<br/>right:sample||
 
+# References
+  - dataset_down.sh is obtained from [phillipi/pix2pix](https://github.com/phillipi/pix2pix/tree/master/datasets)
+
 # Contacts
   - Email:computerscienceyyz@163.com
