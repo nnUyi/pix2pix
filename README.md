@@ -16,12 +16,14 @@
       $ cd pix2pix
       
   ## download datasets
-  This is repo mainly focus on **facades** datasets, more datasets you can download [here](), or you just need to run dataset_download.sh as follow:
+  - This is repo mainly focus on **facades** datasets, more datasets you can download [here](https://phillipi.github.io/pix2pix/), or you just need to run dataset_download.sh as follow:
   
       #dataset_download.sh is provided to download datasets
-      $ bash ./dataset_download facades
-    
-  Then, you can see the dataset named facades is stored in your datasets(named datasets) directory  
+      $ bash ./dataset_download ***
+      # here *** indicates dataset name, like facades or Cityscapes etc, example show below
+      $ bash ./dataset_download.sh facades
+      
+  - Then, you can see the dataset named facades is stored in your datasets(named datasets) directory  
   ## training model
   ## testing model
   
