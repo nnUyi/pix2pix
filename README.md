@@ -1,5 +1,5 @@
 # pix2pix
-  - A implement of pix2pix for tensorflow version according to paper named [Image-to-Image Translation with Conditional Adversarial Nets](https://phillipi.github.io/pix2pix/)
+  - An implement of pix2pix for tensorflow version according to paper named [Image-to-Image Translation with Conditional Adversarial Nets](https://phillipi.github.io/pix2pix/)
 
 # Requirements
   - tensorflow 1.3.0
@@ -16,14 +16,15 @@
       $ cd pix2pix
       
   ## download datasets  
-  This is repo mainly focus on **facades** datasets, more datasets you can download [here](https://phillipi.github.io/pix2pix/), or you just need to run dataset_download.sh as follow:
   
       #dataset_download.sh is provided to download datasets
       $ bash ./dataset_download.sh ***
-      # here *** indicates dataset name, like facades or Cityscapes etc, example show below
-      $ bash ./dataset_download.sh facades
       
-  Then, you can see the dataset named facades is stored in your datasets(named datasets) directory  
+      # here *** indicates dataset name, like facades or Cityscapes etc, example show below
+      $ bash ./dataset_download.sh facades    
+  
+  - This is repo mainly focus on **facades** datasets, more datasets you can download [here](https://phillipi.github.io/pix2pix/), or you just need to run dataset_download.sh,then, you can see the dataset named facades is stored in your datasets(named datasets) directory.
+  
   ## training model
       $ python main.py --is_training True --phase train
       
