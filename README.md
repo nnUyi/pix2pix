@@ -32,15 +32,15 @@
   |sample data|sample data|
   |:-----------------:|:----------------:|
   |![Alt test](/data/facades_train_1.png)|![Alt test](/data/facades_train_2.png)|
-  |left:source data<br/>middle: groundtruth<br/>right:sample|left:source data<br/>middle: groundtruth<br/>right:sample||
+  |left:source<br/>middle: groundtruth<br/>right:sample|left:source<br/>middle: groundtruth<br/>right:sample||
   
   ## sample data from test sets(testing)
   |sample data|sample data|
   |:-----------------:|:----------------:|
   |![Alt test](/data/facades_test_1.png)|![Alt test](/data/facades_test_2.png)|
-  |left:source data<br/>middle: groundtruth<br/>right:sample|left:source data<br/>middle: groundtruth<br/>right:sample||
+  |left:source<br/>middle: groundtruth<br/>right:sample|left:source<br/>middle: groundtruth<br/>right:sample||
   |![Alt test](/data/facades_test_3.png)|![Alt test](/data/facades_test_4.png)|
-  |left:source data<br/>middle: groundtruth<br/>right:sample|left:source data<br/>middle: groundtruth<br/>right:sample||
+  |left:source<br/>middle: groundtruth<br/>right:sample|left:source<br/>middle: groundtruth<br/>right:sample||
 
 # Acknowledgements
   - dataset_down.sh is obtained from [phillipi/pix2pix](https://github.com/phillipi/pix2pix/tree/master/datasets)
