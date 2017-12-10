@@ -29,13 +29,13 @@
 
 # Results
   ## sample data from val sets(sampling)
-  |sample data|sample data|
+  |sample result|sample result|
   |:-----------------:|:----------------:|
   |![Alt test](/data/facades_train_1.png)|![Alt test](/data/facades_train_2.png)|
   |left:source<br/>middle: groundtruth<br/>right:sample|left:source<br/>middle: groundtruth<br/>right:sample||
   
   ## sample data from test sets(testing)
-  |sample data|sample data|
+  |test result|test result|
   |:-----------------:|:----------------:|
   |![Alt test](/data/facades_test_1.png)|![Alt test](/data/facades_test_2.png)|
   |left:source<br/>middle: groundtruth<br/>right:sample|left:source<br/>middle: groundtruth<br/>right:sample||
