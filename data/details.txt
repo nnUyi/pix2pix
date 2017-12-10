@@ -1,0 +1,1 @@
+Data directory contains sample data(from val sets) and test data(from test sets).
